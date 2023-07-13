@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=top-web-talent)   <br />
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-    <img src="https://github-profile-trophy.vercel.app/?username=top-web-talent&column=5&theme=onedark" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=top-web-talent&column=5&theme=flat" width="100%" />
 </div>
 
 <p  align="center">
