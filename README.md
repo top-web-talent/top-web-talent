@@ -12,7 +12,7 @@
 
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=top-web-talent&show_icons=true&theme=synthwave&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=top-web-talent&theme=prussian&hide_border=true" />
+<img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=top-web-talent&theme=blueberry&hide_border=true" />
 </p>
 
 <p  align="center">
