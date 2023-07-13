@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Cardoso-topdev)   <br />
+![](https://komarev.com/ghpvc/?username=top-web-talent)   <br />
 <div>
   <h4>🏆 Github Profile Trophy</h4>
     <img src="https://github-profile-trophy.vercel.app/?username=top-web-talent&column=5&theme=onedark" width="100%" />
@@ -11,8 +11,8 @@
 </p>
 
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Cardoso-topdev&show_icons=true&theme=blueberry&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Cardoso-topdev&theme=blueberry&hide_border=true" />
+  <!-- <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=top-web-talent&show_icons=true&theme=blueberry&hide_border=true" /> -->
+  <!-- <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=top-web-talent&theme=blueberry&hide_border=true" /> -->
 </p>
 
 <p  align="center">
